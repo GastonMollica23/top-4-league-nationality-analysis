@@ -48,3 +48,4 @@ Each country's percentage share of the total player pool was then calculated.
 ## Visualisation
 
 ![Top 15 Countries Represented in Europe's Top 4 Leagues](visualisations/top_15_countries.png)
+![Continent Player Numbers](visualisations/player_numbers_by_continent.png)
